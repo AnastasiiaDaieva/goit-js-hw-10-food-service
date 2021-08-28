@@ -1,6 +1,6 @@
 import refs from './refs';
 
-const { bodyAccess, LIGHT, DARK } = refs;
+const { switchAccess, bodyAccess, LIGHT, DARK } = refs;
 
 const GET_KEY = 'class';
 

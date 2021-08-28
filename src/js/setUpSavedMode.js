@@ -4,7 +4,7 @@ import savedMode from './savedMode';
 
 import refs from './refs';
 
-const { LIGHT } = refs;
+const { switchAccess, LIGHT } = refs;
 
 const checkModeFunc = savedMode();
 
